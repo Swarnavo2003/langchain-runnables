@@ -1,0 +1,16 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI
+langchain-openai
+openai
+
+# Gemini
+langchain-google-genai
+google-generativeai
+
+# Env
+python-dotenv
+
+grandalf
